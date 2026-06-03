@@ -1,0 +1,6 @@
+torch
+tiktoken
+datasets
+fastapi
+uvicorn
+pydantic
