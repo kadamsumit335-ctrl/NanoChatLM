@@ -1,6 +1,8 @@
 torch
 tiktoken
 datasets
+transformers
+numpy
 fastapi
 uvicorn
 pydantic
