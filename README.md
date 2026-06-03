@@ -8,7 +8,8 @@ A 28M parameter language model built completely from scratch.
 - SwiGLU activation
 - Grouped Query Attention (GQA)
 
-Same design principles as LLaMA-3 — at nano scale.
+<img width="561" height="151" alt="image" src="https://github.com/user-attachments/assets/c9f06bd2-1da0-492f-baf2-a4f5fabff814" />
+
 
 ## Training
 - Dataset: OpenAssistant OASST1
