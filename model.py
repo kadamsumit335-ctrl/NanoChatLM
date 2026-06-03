@@ -13,6 +13,12 @@ class Config:
     n_embd       = 384
     n_kv_heads   = 2
     dropout      = 0.1
+    batch_size   = 32
+    lr           = 3e-4
+    weight_decay = 0.01
+    max_iters    = 5000
+    grad_clip    = 1.0
+    eval_every   = 500
 
 cfg = Config()
 
